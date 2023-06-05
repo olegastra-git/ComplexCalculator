@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ComplexCalculator.iml" filepath="$PROJECT_DIR$/.idea/ComplexCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEB-INF/lib/commons-fileupload-1.5-src/commons-fileupload.iml" filepath="$PROJECT_DIR$/WEB-INF/lib/commons-fileupload-1.5-src/commons-fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEB-INF/lib/commons-io-2.12.0-src/commons-io.iml" filepath="$PROJECT_DIR$/WEB-INF/lib/commons-io-2.12.0-src/commons-io.iml" />
+    </modules>
+  </component>
+</project>

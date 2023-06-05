@@ -1,11 +1,10 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-
 public class ComplexNumber {
     private double real;
     private double imaginary;
-    private static final Logger Logger = LogManager.getLogger(ComplexNumber.class);
+    private static final Logger LOGGER = LogManager.getLogger(ComplexNumber.class);
 
     public ComplexNumber(double real, double imaginary) {
         this.real = real;

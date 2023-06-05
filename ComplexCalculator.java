@@ -3,7 +3,7 @@ import org.apache.logging.log4j.Logger;
 
 public class ComplexCalculator {
     private static final Logger LOGGER = LogManager.getLogger(ComplexCalculator.class);
-    //private static Logger log = LogManager.getLogger(ComplexCalculator.class); 
+
     public ComplexNumber add(ComplexNumber a, ComplexNumber b) {
         LOGGER.info("Adding {} and {}", a, b);
         return a.add(b);
